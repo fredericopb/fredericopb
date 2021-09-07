@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredericopb
 - 👀 I’m interested in Reading, Chess Football and social drinking 
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I like Javascript and Python
 - 💞️ I’m looking to collaborate on, oh well many things
 - 📫 How to reach me fredericopbasto@protonmail.com
 
